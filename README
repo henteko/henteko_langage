@@ -7,6 +7,8 @@ sample.henteko
 
 	(^O^) #Quine
 
+run:
+	ruby henteko.rb sample.henteko
 
 Create by henteko.
 
